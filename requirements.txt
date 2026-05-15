@@ -1,3 +1,4 @@
-streamlit==1.32.2
-pyhanko==0.21.0
-cryptography==42.0.5
+streamlit
+pyhanko>=0.21.0
+cryptography>=42.0.0
+
